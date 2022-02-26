@@ -30,7 +30,7 @@ Angelica Sargent
 ![Screenshot](././assests/images/prj 3.png)
 
 # Link
-link of the Github directory :
+link of the Github directory : git@github.com:ausamindec/week_2.git
 
 # Link of Hosted Website
-link : 
+link : https://ausamindec.github.io/week_2/
