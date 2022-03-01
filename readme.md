@@ -2,7 +2,7 @@
 I've created a portfolio website based on information given to me on week 2nd assignment, i've modified the given wireframe 
 (in assignment)..I've tried my best to make it more prettier.
 
-this portfolio is displaying an About Me/Experience/Contact section, with links navigating to each section. 
+this portfolio is displaying an "About Me", "Experience", "Contact section", with links navigating to each section. 
 
 In addition to displaying and properly linking homeworks with functioning image links. The purpose of the assignment was to ensure that we created a portfolio that reflected the coder as an individual, their past works, some information about them, and how to conatact.
 
