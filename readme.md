@@ -28,7 +28,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ![Screenshot](././assests/images/prj 3.png)
 
 # Link
-link of the Github directory : git@github.com:ausamindec/week_2.git
+link of the Github directory : https://github.com/ausamindec/week_2.git
 
 # Link of Hosted Website
 link : https://ausamindec.github.io/week_2/
